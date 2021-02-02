@@ -17,7 +17,7 @@
 
 /* Define base controller sizing */
 .controller.custom{
-    background: url(snes.svg);
+    background: url(https://raw.githubusercontent.com/b3ni/snes-skin-for-gamepadviewer/master/snes.svg);
     background-repeat: no-repeat;
     background-position: 0px 0px;
     width: 970px;
@@ -26,7 +26,7 @@
     margin-top: -212px;
 }
 .custom.disconnected {
-    background: url(snes.svg);
+    background: url(https://raw.githubusercontent.com/b3ni/snes-skin-for-gamepadviewer/master/snes.svg);
     background-position: 0px -424px;
     background-repeat: no-repeat;
 }
